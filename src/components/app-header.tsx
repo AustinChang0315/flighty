@@ -10,7 +10,7 @@ const appHeaderNavItems = [
   ...defaultSiteNavItems,
   {
     label: "GitHub",
-    href: "https://github.com/ridemountainpig/flightcn",
+    href: "https://github.com/AustinChang0315/flighty",
     external: true,
   },
 ];

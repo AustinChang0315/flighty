@@ -14,6 +14,7 @@ export type SiteNavItem = {
 
 export const defaultSiteNavItems: SiteNavItem[] = [
   { label: "Home", href: "/" },
+  { label: "My Travel", href: "/my-travel" },
   { label: "Documentation", href: "/docs" },
   { label: "Install Guide", href: "/docs/install" },
   { label: "Airports", href: "/airports" },
