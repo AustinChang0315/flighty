@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const siteConfig = {
   name: "flightcn",
-  url: "https://flightcn.yencheng.dev",
+  url: "https://AustinChang0315.github.io/flighty",
   description:
     "Flight route and satellite orbit visualization components for mapcn and MapLibre, with airport lookup, great-circle paths, orbital overlays, and animated globe markers.",
   creator: {
